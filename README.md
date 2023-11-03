@@ -6,6 +6,8 @@
   </a>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shun1218&layout=compact)
+
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
   <h4>Programming Language</h4>
