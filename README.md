@@ -29,7 +29,7 @@
   </a>
   <h4>Framework</h4>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
   </a>
   <h4>Database</h4>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
